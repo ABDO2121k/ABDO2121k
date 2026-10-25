@@ -9,7 +9,7 @@ Backend, cloud and applied AI. Two software engineering degrees (EST Fès and IS
 - **[Kouah AI Board](https://github.com/ABDO2121k/kouah-ai-board-spring)**: Spring Boot 3 API with JWT/RBAC, RabbitMQ events, WebSocket notifications and a gRPC e-mail service, 9 containers in one Docker Compose file.
 - **[Vehicle registration OCR](https://github.com/ABDO2121k/OCR_service)**: PaddleOCR + GPT-4o-mini turning Belgian *cartes grises* into JSON, about 96% field accuracy at about $20 per 10,000 documents.
 - **[Kouah AI Quiz](https://github.com/ABDO2121k/kouah-ai-quiz)**: AI-generated quizzes with Next.js, Prisma and the OpenAI API, SCORM export and real-time chat.
-- **Kouah AI**: AI agents on client websites (MCP, RAG on Oracle AI Vector Search, WhatsApp/Instagram/Messenger). Its npm SDK [`@kouahai/embed`](https://www.npmjs.com/package/@kouahai/embed) has 1,400+ downloads.
+- **[Kouah AI](https://github.com/ABDO2121k/kouah-ai-pro)**: multi-tenant AI chatbot SaaS (RAG with LangChain + Pinecone, Stripe billing, live help desk). AI agents on client websites (MCP, RAG on Oracle AI Vector Search, WhatsApp/Instagram/Messenger). Its npm SDK [`@kouahai/embed`](https://www.npmjs.com/package/@kouahai/embed) has 1,400+ downloads.
 
 ## Experience
 
